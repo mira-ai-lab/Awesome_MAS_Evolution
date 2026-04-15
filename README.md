@@ -10,10 +10,12 @@
 
 > We welcome issues for missing or misclassified papers: `https://github.com/mira-ai-lab/Awesome_MAS_Evolution`.
 
+<a id="news"></a>
 ## 🎉 News
 
 - **[2026-04-15]** The repository for our survey is established!
 
+<a id="citation"></a>
 ## 📌 Citation
 
 If you find this survey useful, please cite (update venue fields after publication):
@@ -30,6 +32,7 @@ Survey placeholders in this README can be updated via config file `configs/readm
 }
 ```
 
+<a id="contents"></a>
 ## 📖 Contents
 
 - [Beyond Individual Intelligence: A Survey of Multi-agent Collaboration, Attribution and Evolution](#beyond-individual-intelligence-a-survey-of-multi-agent-collaboration-attribution-and-evolution)
@@ -70,6 +73,7 @@ Survey placeholders in this README can be updated via config file `configs/readm
 - [Acknowledgment](#acknowledgment)
 - [Star History](#star-history)
 
+<a id="overview"></a>
 ## 🗺️ Overview
 
 This companion repository supports the survey **Beyond Individual Intelligence: A Survey of Multi-agent Collaboration, Attribution and Evolution**, which studies the **full operational lifecycle** of LLM-based multi-agent systems (MAS): single-agent foundations, collaboration design, runtime failure attribution, and self-evolution that closes the loop from diagnosis to structural adaptation.
@@ -85,6 +89,7 @@ We organize the literature around **four main pillars** (mirroring the manuscrip
 3. **Failure attribution:** Formal definitions, failure taxonomies, attribution methods, and evaluation benchmarks.
 4. **Self-evolution:** From postmortem signals to updates at agentic, systemic, and meta levels (prompts, memory, parameters, topology, team composition, and whole-system design).
 
+<a id="paper-list"></a>
 ## 📑 Paper List
 
 ### Individual Intelligence
@@ -705,10 +710,12 @@ We organize the literature around **four main pillars** (mirroring the manuscrip
 | 2025 | `ye2025mas` | Mas-gpt: Training llms to build llm-based multi-agent systems | ![ye2025mas](figs/ye2025mas.png) | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.03686) | - |
 | 2025 | `wang2025mas` | MAS $\^ 2$: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems | ![wang2025mas](figs/wang2025mas.png) | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.24323) | - |
 
+<a id="acknowledgment"></a>
 ## 🚩 Acknowledgment
 
 This survey is extended and refined from the original **Awesome RL for LRMs** repo. We are deeply grateful to all contributors for their efforts, and we sincerely thank for their all interest in **Awesome RL for LRMs**. The contents of the previous repository are available [here](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs).
 
+<a id="star-history"></a>
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mira-ai-lab/Awesome_MAS_Evolution&type=Date)](https://www.star-history.com/#mira-ai-lab/Awesome_MAS_Evolution&Date)
