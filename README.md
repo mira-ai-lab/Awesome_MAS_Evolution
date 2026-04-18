@@ -77,7 +77,7 @@ If you find this survey useful, please cite:
 <a id="overview"></a>
 ## 🗺️ Overview
 
-This companion repository supports the survey **Beyond Individual Intelligence: A Survey of Multi-agent Collaboration, Attribution and Evolution**, which studies the **full operational lifecycle** of LLM-based multi-agent systems (MAS): single-agent foundations, collaboration design, runtime failure attribution, and self-evolution that closes the loop from diagnosis to structural adaptation.
+This companion repository supports the survey **Beyond Individual Intelligence: A Survey of Multi-agent Collaboration, Attribution and Evolution**, which studies the **full operational lifecycle** of LLM-based multi-agent systems (MAS): single-agent, multi-agent collaboration, multi-agent failure attribution, and multi-agent evolution that closes the loop from diagnosis to structural adaptation.
 
 <p align="center">
    <img src="figs/teaser.png" alt="Survey overview figure" style="width: 100%;">
